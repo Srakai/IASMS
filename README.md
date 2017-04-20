@@ -10,3 +10,6 @@ User provides nasm syntax which is assembled by Nasm, and executed. Keep in mind
 - 64 bit Linux 
 
 - NASM http://www.nasm.us
+
+# Author
+@Srakai - and yes I know that this code is terrible
