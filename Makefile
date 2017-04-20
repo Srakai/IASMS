@@ -1,4 +1,4 @@
 
-shell: shell3.c
-	gcc shell3.c -lcurses -o asmshell
+shell: shell.c
+	gcc shell.c -lcurses -o iasms
 
